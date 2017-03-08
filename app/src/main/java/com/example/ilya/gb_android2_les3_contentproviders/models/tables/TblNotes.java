@@ -58,4 +58,5 @@ public class TblNotes extends BaseModel {
 
     public TblNotes() {
     }
+
 }
